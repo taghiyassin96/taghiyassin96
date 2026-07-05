@@ -33,7 +33,6 @@ I’m a software developer who enjoys building things that people actually use. 
 </div>
 
 <h2>👻 Pac-Man Contribution Graph Game</h2>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taghiyassin96/taghiyassin96/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/taghiyassin96/taghiyassin96/output/pacman-contribution-graph.svg">
