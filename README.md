@@ -32,7 +32,7 @@ I’m a software developer who enjoys building things that people actually use. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-<h2>👻 Pac-Man Contribution Graph Game</h2>
+### Bomberman preview
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taghiyassin96/taghiyassin96/output/pacman-contribution-graph-dark.svg">
