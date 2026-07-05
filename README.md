@@ -1,7 +1,7 @@
-##👋 Hi, I’m YASSIN TAGHI
+## 👋 Hi, I’m YASSIN TAGHI
 I’m a software developer who enjoys building things that people actually use. I created Textiar, a platform where anyone can share knowledge and personal insights in a simple text-based format. I like working with Python and Django, and I’m always curious about how technology can make life a little simpler.
 
-##⚡ MY SKILLS
+## ⚡ MY SKILLS
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
